@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/BLL/AccountBLL.java=UTF-8
+encoding//src/BLL/InteractBLL.java=UTF-8
+encoding//src/BLL/LdtBLL.java=UTF-8
+encoding//src/BLL/ModifyBLL.java=UTF-8
+encoding//src/DAL/AccountDAL.java=UTF-8
+encoding//src/DAL/DatabaseService.java=UTF-8
+encoding//src/DAL/InteractDAL.java=UTF-8
+encoding//src/DAL/LdtDAL.java=UTF-8
+encoding//src/DAL/ModifyDAL.java=UTF-8
+encoding//src/GUI/MainWindows.java=UTF-8
+encoding//src/GUI/PanelAddCase.java=UTF-8
+encoding//src/GUI/PanelChangePassword.java=UTF-8
+encoding//src/GUI/PanelCreateAccount.java=UTF-8
+encoding//src/GUI/PanelListCase.java=UTF-8
+encoding//src/GUI/PanelLogin.java=UTF-8
+encoding//src/GUI/PanelPlay.java=UTF-8
